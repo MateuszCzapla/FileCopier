@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Sample configuration-->
+<root path="C:\BookLibrary_Angular16_16_16\">
+	<file>authMiddleware.js</file>
+	<file>data.js</file>
+	<src>
+		<app>
+			<model>
+				<file>book.model.ts</file>
+				<file>book.repository.ts</file>
+				<file>static.datasource.ts</file>
+			</model>
+		</app>
+		<app2>
+			<model2>
+				<file>book2.model.ts</file>
+				<file>book2.repository.ts</file>
+				<file>static2.datasource.ts</file>
+			</model2>
+		</app2>
+	</src>
+</root>
